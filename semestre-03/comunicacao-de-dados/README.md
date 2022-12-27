@@ -1,37 +1,37 @@
 # Programa
 1. Introdução às redes de computadores (4ha)
-1.1. Conceitos básicos de redes de computadores.
-1.2. Redes ponto-a-ponto.
-1.3. Redes multiponto.
-1.4. Topologias.
+  1. Conceitos básicos de redes de computadores.
+  2. Redes ponto-a-ponto.
+  3. Redes multiponto.
+  4. Topologias.
 
 2. Conceitos básicos de comunicação de dados (12ha):
-2.1. Breve histórico.
-2.2. Sinais e dados.
-2.3. Transmissão Analógica X Transmissão Digital.
-2.4. Problemas na transmissão.
-2.4.1. Ecos.
-2.4.2. Ruídos.
-2.4.3. Atenuação.
-2.5. Tipos de Transmissão
-2.5.1. Transmissão paralela.
-2.5.2. Transmissão serial síncrona.
-2.5.3. Transmissão serial assíncrona.
-2.6. Multiplexação.
-2.6.1. FDM.
-2.6.2. TDM.
-2.7. Canais de comunicação.
-2.8. Modos de operação
-2.8.1. Simplex.
-2.8.2. Half-duplex.
-2.8.3. Full-duplex.
+  1. Breve histórico.
+  2. Sinais e dados.
+  3. Transmissão Analógica X Transmissão Digital.
+  4. Problemas na transmissão.
+    1. Ecos.
+    2. Ruídos.
+    3. Atenuação.
+  5. Tipos de Transmissão
+    1. Transmissão paralela.
+    2. Transmissão serial síncrona.
+    3. Transmissão serial assíncrona.
+  6. Multiplexação.
+    1. FDM.
+    2. TDM.
+  7. Canais de comunicação.
+  8. Modos de operação
+    1. Simplex.
+    2. Half-duplex.
+    3. Full-duplex.
 
 3. Meios transmissão (10ha):
-3.1. Par trançado.
-3.1.1. Prática: crimpagem, canaletas, conectores.
-3.2. Cabo coaxial.
-3.3. Fibra ótica.
-3.4. Comunicação via satélite.
+  1. Par trançado.
+    1. Prática: crimpagem, canaletas, conectores.
+  2. Cabo coaxial.
+  3. Fibra ótica.
+  4. Comunicação via satélite.
 
 4. Noções de Teoria da Informação
 4.1. Conceitos de sinais.
