@@ -6,65 +6,60 @@
 	4. Topologias.
 
 2. Conceitos básicos de comunicação de dados (12ha):
-  1. Breve histórico.
-  2. Sinais e dados.
-  3. Transmissão Analógica X Transmissão Digital.
-  4. Problemas na transmissão.
-  	1. Ecos.
+	1. Breve histórico.
+	2. Sinais e dados.
+	3. Transmissão Analógica X Transmissão Digital.
+	4. Problemas na transmissão.
+		1. Ecos.
 		2. Ruídos.
-    3. Atenuação.
-  5. Tipos de Transmissão
-    1. Transmissão paralela.
-    2. Transmissão serial síncrona.
-    3. Transmissão serial assíncrona.
-  6. Multiplexação.
-    1. FDM.
-    2. TDM.
-  7. Canais de comunicação.
-  8. Modos de operação
-    1. Simplex.
-    2. Half-duplex.
-    3. Full-duplex.
-
-3. Meios transmissão (10ha):
-  1. Par trançado.
-    1. Prática: crimpagem, canaletas, conectores.
-  2. Cabo coaxial.
-  3. Fibra ótica.
-  4. Comunicação via satélite.
-
+		3. Atenuação.
+	5. Tipos de Transmissão
+		1. Transmissão paralela.
+		2. Transmissão serial síncrona.
+		3. Transmissão serial assíncrona.
+	6. Multiplexação.
+		1. FDM.
+		2. TDM.
+	7. Canais de comunicação.
+	8. Modos de operação
+		1. Simplex.
+		2. Half-duplex.
+		3. Full-duplex.
+3. Meios transmissão
+	1. Par trançado.
+		1. Prática: crimpagem, canaletas, conectores.
+	2. Cabo coaxial.
+	3. Fibra ótica.
+	4. Comunicação via satélite.
 4. Noções de Teoria da Informação
-4.1. Conceitos de sinais.
-4.2. Unidades de medidas.
-4.3. Taxa de erro de bits.
-4.4. Taxa de transmissão e taxa de sinalização.
-4.5. Banda de transmissão.
-4.6. Teorema de Nyquist.
-4.7. Taxa de transmissão Máxima de um canal.
-4.8. Lei de Shannon.
-
-5: Modulação
-5.1. Conceito de Modulação.
-5.2. Modens analógicos.
-5.3. Modulação ASK.
-5.4. Modulação FSK.
-5.5. Modulação PSK.
-5.6. Modulação DPSK.
-5.7. Modulação QAM.
-5.8. Modem ADSL.
-
+	1. Conceitos de sinais.
+	2. Unidades de medidas.
+	3. Taxa de erro de bits.
+	4. Taxa de transmissão e taxa de sinalização.
+	5. Banda de transmissão.
+	6. Teorema de Nyquist.
+	7. Taxa de transmissão Máxima de um canal.
+	8. Lei de Shannon.
+5. Modulação
+	1. Conceito de Modulação.
+	2. Modens analógicos.
+	3. Modulação ASK.
+	4. Modulação FSK.
+	5. Modulação PSK.
+	6. Modulação DPSK.
+	7. Modulação QAM.
+	8. Modem ADSL.
 6. Codificação
-6.1. Conceito de Codificação.
-6.2. Codificação NRZ.
-6.3. Codificação AMI.
-6.4. Manchester.
-6.5. Codificação por blocos.
-6.5.1. 4B5B.
-6.5.2. 8B10B.
-6.6. Scrambling.
-6.6.1. B8ZS.
-6.6.2. HDB-3.
-
+	1. Conceito de Codificação.
+	2. Codificação NRZ.
+	3. Codificação AMI.
+	4. Manchester.
+	5. Codificação por blocos.
+		1. 4B5B.
+		2. 8B10B.
+	6. Scrambling.
+		1. B8ZS.
+		2. HDB-3.
 7: Interfaces de comunicação de dados
 7.1. Tipos de interfaces (RS-232, v35,etc).
 7.2. Interface de comunicação serial RS-232.
