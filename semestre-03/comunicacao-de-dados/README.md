@@ -60,35 +60,31 @@
 	6. Scrambling.
 		1. B8ZS.
 		2. HDB-3.
-7: Interfaces de comunicação de dados
-7.1. Tipos de interfaces (RS-232, v35,etc).
-7.2. Interface de comunicação serial RS-232.
-7.2.1. Confecção de cabo.
-7.2.2. Teste com hyperterminal.
-7.2.3. Pratica com api javacomm.
-
-8: Algoritmos de detecção e correção de erros
-8.1. Paridade de caractere.
-8.2. Paridade combinada.
-8.3. Polinômio gerador (CRC).
-8.4. Medição de erros na transmissão.
-
+7. Interfaces de comunicação de dados
+	1. Tipos de interfaces (RS-232, v35,etc).
+	2. Interface de comunicação serial RS-232.
+		1. Confecção de cabo.
+		2. Teste com hyperterminal.
+		3. Pratica com api javacomm.
+8. Algoritmos de detecção e correção de erros
+	1. Paridade de caractere.
+	2. Paridade combinada.
+	3. Polinômio gerador (CRC).
+	4. Medição de erros na transmissão.
 9. Modelo em camadas
-9.1. Padronização de redes.
-9.2. Modelo em camadas.
-9.3. Modelo OSI.
-9.4. Modelo TCP/IP.
-
+	1. Padronização de redes.
+	2. Modelo em camadas.
+	3. Modelo OSI.
+	4. Modelo TCP/IP.
 10. Protocolos de Acesso ao Meio
-10.1. ALOHA.
-10.2. S-ALOHA.
-10.3. CSMA.
-10.4. CSMA-CD.
-10.5. CSMA-CA.
-
+	1. ALOHA.
+	2. S-ALOHA.
+	3. CSMA.
+	4. CSMA-CD.
+	5. CSMA-CA.
 11. Protocolos da Camada de Enlace
-11.1. Ethernet.
-11.2. PPP.
+	1. Ethernet.
+	2. PPP.
 
 # Bibliografia básica
 - KUROSE, James F.; ROSS, Keith W. Redes de computadores e a Internet: uma abordagem top-down. 3.ed. São Paulo (SP): Pearson Addison Wesley, 2007. 634 p.
