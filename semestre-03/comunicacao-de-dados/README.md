@@ -1,17 +1,17 @@
 # Programa
 1. Introdução às redes de computadores (4ha)
-  1. Conceitos básicos de redes de computadores.
-  2. Redes ponto-a-ponto.
-  3. Redes multiponto.
-  4. Topologias.
+	1. Conceitos básicos de redes de computadores.
+	2. Redes ponto-a-ponto.
+	3. Redes multiponto.
+	4. Topologias.
 
 2. Conceitos básicos de comunicação de dados (12ha):
   1. Breve histórico.
   2. Sinais e dados.
   3. Transmissão Analógica X Transmissão Digital.
   4. Problemas na transmissão.
-    1. Ecos.
-    2. Ruídos.
+  	1. Ecos.
+		2. Ruídos.
     3. Atenuação.
   5. Tipos de Transmissão
     1. Transmissão paralela.
