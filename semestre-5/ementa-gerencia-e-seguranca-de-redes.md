@@ -91,11 +91,15 @@ A nota preliminar ($M_P$) do semestre será calculada através da média pondera
 
 Se a nota preliminar do semestre for igual ou superior a 7, o aluno é considerado aprovado. Se o aluno obtiver nota maior ou igual a 3 e menor do que 7, ele terá direito a fazer uma avaliação final.
 
+A nota final ($M_F$) do aluno será a média aritmética entre a nota preliminar do semestre e a nota da avaliação final (AF).
+
+Se a nota final for maior ou igual a 5, o aluno é considerado aprovado.
+
 $$ M_P = 0,4N_1 + 0,6N_2 $$
 
 $$ \ M_F =
   \begin{cases}
-    M_P & \quad \text{se } M_P \geq 7,0\\
+    M_P & \quad \text{se } M_P \geq 7,0 \text{ ou } M_P < 3,0 \\
     0,5M_P + 0,5AF   & \quad \text{caso contrário}
   \end{cases}
 $$
@@ -106,14 +110,6 @@ $$ \text{resultado} =
     \text{reprovado}   & \quad \text{caso contrário}
   \end{cases}
 $$
-
-A nota final ($M_F$) do aluno será a média aritmética entre a nota preliminar do semestre e a nota da avaliação final (AF).
-- $M_F = 0,5M_P + 0,5AF$
-- $M_F = 0,2N_1 + 0,3N_2 + 0,5AF$
-
-Se a nota final for maior ou igual a 5, o aluno é considerado aprovado.
-
-
 
 ## BIBLIOGRAFIA
 ### BÁSICA
