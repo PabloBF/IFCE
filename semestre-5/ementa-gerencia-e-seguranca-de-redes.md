@@ -113,10 +113,9 @@ $$
 
 ## Bibliografia
 ### Básica
-- STALLINGS, W.; **Criptografia e segurança de redes**: princípios e práticas. 6ed. São Paulo: Pearson Education do Brasil. 2015. Acesso Online: bvu.ifce.edu.br
-- KUROSE, James F.; ROSS, Keith W. **Redes de computadores e a internet**: uma abordagem top-
-down. 6. ed. São Paulo, SP: Pearson Addison Wesley, 2013. 634 p.
-- TANENBAUM, Andrew S. **Redes de computadores**. Rio de Janeiro, RJ: Pearson Addison Wesley, 2011. 582 p.
+- STALLINGS, William. **Criptografia e segurança de redes**: princípios e práticas. 6. ed. São Paulo: Pearson, 2015. 578 p. ISBN 978-85-430-1450-0.
+- KUROSE, James Francis; ROSS, Keith W. **Redes de computadores e a internet**: uma abordagem *top-down*. 6. ed. São Paulo: Pearson Addison Wesley, 2013. 634 p.
+- TANENBAUM, Andrew Stuart. **Redes de computadores**. Rio de Janeiro, RJ: Pearson Addison Wesley, 2011. 582 p.
 
 ### Complementar
 - Cisco Networking Academy. Cybersecurity Essential. 2016. Acesso Online: www.netacad.com
