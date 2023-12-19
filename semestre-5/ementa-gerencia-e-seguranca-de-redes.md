@@ -1,4 +1,4 @@
-# DISCIPLINA: GERÊNCIA E SEGURANÇA DE REDES
+# Gerência e segurança de redes
 - código: 01.302.30
 - carga horária: 80 h
   - teórica: 60 h
@@ -8,7 +8,7 @@
 - semestre: 5
 - nível: tecnologia
 
-## EMENTA
+## Ementa
 - Conceitos básicos de segurança;
 - Criptografia, autenticação, autorização e contabilização;
 - Serviços de segurança;
@@ -17,7 +17,7 @@
 - Protocolo de gerência de rede;
 - Ferramentas de gerência.
 
-## OBJETIVO
+## Objetivos
 - Classificar os tipos de ataques a redes de computadores.
 - Conhecer os serviços e mecanismos para segurança de redes.
 - Entender como funciona os vários esquemas e algoritmos de criptografia.
@@ -25,7 +25,7 @@
 - Entender as principais partes de um sistema de gerencia de redes.
 - Usar as ferramentas de gerencia *opensource* e *freeware*.
 
-## PROGRAMA
+## Programa
 1. Conceitos básicos de Segurança
    1. Tendências de segurança
    2. Ataques à segurança
@@ -62,11 +62,11 @@
       3. Protocolo de Gerência de Rede - SNMP
    3. Ferramentas de Gerência
 
-## METODOLOGIA DE ENSINO
+## Metodologia de ensino
 - Aulas teóricas e práticas.
 - Laboratórios com equipamentos reais e simuladores.
 
-## RECURSOS
+## Recursos
 Laboratório de Redes equipado com:
 - Quadro branco;
 - Pincéis;
@@ -75,7 +75,7 @@ Laboratório de Redes equipado com:
 - Softwares de simulação de redes;
 - *Switches* e roteadores.
 
-## AVALIAÇÃO
+## Avaliação
 A avaliação é realizada de forma processual e cumulativa. A saber:
 - avaliações escritas
 - trabalhos extra-sala de aula, e
@@ -111,14 +111,14 @@ $$ \text{resultado} =
   \end{cases}
 $$
 
-## BIBLIOGRAFIA
-### BÁSICA
+## Bibliografia
+### Básica
 - STALLINGS, W.; **Criptografia e segurança de redes**: princípios e práticas. 6ed. São Paulo: Pearson Education do Brasil. 2015. Acesso Online: bvu.ifce.edu.br
 - KUROSE, James F.; ROSS, Keith W. **Redes de computadores e a internet**: uma abordagem top-
 down. 6. ed. São Paulo, SP: Pearson Addison Wesley, 2013. 634 p.
 - TANENBAUM, Andrew S. **Redes de computadores**. Rio de Janeiro, RJ: Pearson Addison Wesley, 2011. 582 p.
 
-### COMPLEMENTAR
+### Complementar
 - Cisco Networking Academy. Cybersecurity Essential. 2016. Acesso Online: www.netacad.com
 - Cisco Networking Academy. CCNA Cybersecurity Operations. 2018. Disponível em: www.netacad.com
 - ANDERSON, Al; BENEDETTI, Ryan. **Use a cabeça! Redes de computadores**. Rio de janeiro, RJ: Altabooks. 2011. 497p.
