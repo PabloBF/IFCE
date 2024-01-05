@@ -17,17 +17,56 @@ componentes deperformancemais importantes emumarede,eestratégias paramaximizá-
 aaplicaçãodas Redes deAltaVelocidadeemaplicações computacionais. 
 
 ## PROGRAMA
-Unidade1:Conceitos deQoS(10ha):1.1Introdução.1.1.1Vantagens XDesvantagens.1.2Parâmetros. 
-1.2.1Larguradebanda.1.2.2Atraso.1.2.3Variaçãodeatraso(jitter).1.2.4Defasagemáudio/vídeo(skew). 
-Unidade2:IPv6(10ha):2.1Características.2.2Cabeçalhos.2.3Endereçamento.2.3.1Estrutura.2.3.2 
-Tipos:2.3.2.1Unicast.2.3.2.2Anycast.2.3.2.3Multicast.2.4Técnicas demigração.2.4.1Camadadupla. 
-2.4.2Tunelamento.Unidade3:ComutaçãoRápidadePacotes (10ha):3.1Histórico.3.1.1X.25.3.2Frame 
-Relay.3.2.1Estruturadoquadro.3.2.2DLCI.3.2.3CIR.3.3Redes ATM.3.3.1Introdução.3.3.2Células 
-ATM.3.3.3InterconexãodeLANs.3.3.3.1EmulaçãodeLANs.3.3.3.2IPsobreATM.Unidade4:IP 
-Multicast(20ha):4.1Necessidades.4.2ClasseD.4.3Protocolos IGMP,DVMRP.4.4RTP/RTCP.Unidade 
-5:IntServ XDiffServ (20ha):5.1IntServ.5.1.1Introduçãoareservaderecursos.5.1.2RSVP.5.2DiffServ. 
-5.2.1Classes deServiço(CoS).5.2.2CampoDSCP(TOS).5.3Técnicas deComutaçãoIP.5.3.1Redes 
-MPLS.Unidade6:Novos protocolos deredes (10ha):6.1Redes P2P. 
+1. Conceitos de QoS(10ha)
+   1. Introdução.
+      1. Vantagens X Desvantagens.
+   2. Parâmetros.
+      1. Larguradebanda.
+      2. Atraso.
+      3. Variaçãodeatraso(jitter).
+      4. Defasagemáudio/vídeo(skew). 
+2. IPv6(10ha):
+   1. Características.
+   2. Cabeçalhos.
+   3. Endereçamento.
+      1. Estrutura
+      2. Tipos:
+         1. Unicast.
+         2. Anycast
+         3. Multicast.
+   4. Técnicas de migração.
+      1. Camada dupla.
+      2. Tunelamento.
+3. Comutação rápida de pacotes (10ha)
+   1. Histórico.
+      1. X.25
+      2. Frame Relay.
+   2. [vazio]
+      1. Estrutura do quadro.
+      2. DLCI
+      3. CIR.
+   3. Redes ATM
+      1. Introdução.
+      2. Células ATM
+      3. Interconexão de LANs.
+         1. Emulação de LANs.
+         2. IP sobre ATM.
+4. IP Multicast(20ha)
+   1. Necessidades.
+   2. ClasseD.
+   3. Protocolos IGMP, DVMRP.
+   4. RTP/RTCP.
+5. IntServ X DiffServ (20ha)
+   1. IntServ.
+      1. Introdução a reserva de recursos.
+      2. RSVP.
+   2. DiffServ
+      1. Classes de Serviço (CoS)
+      2. CampoDSCP(TOS)
+   3. Técnicas de Comutação IP
+      1. Redes MPLS.
+6. Novos protocolos de redes (10ha)
+   1. Redes P2P.
 
 ## METODOLOGIADEENSINO 
 Adisciplinaédesenvolvidanoformatopresencial: 
