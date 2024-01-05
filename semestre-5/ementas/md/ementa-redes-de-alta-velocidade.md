@@ -40,8 +40,7 @@ aaplicaçãodas Redes deAltaVelocidadeemaplicações computacionais.
 3. Comutação rápida de pacotes (10 ha)
    1. Histórico.
       1. X.25
-      2. *Frame relay*.
-   2. [vazio]
+   2. *Frame relay*.
       1. Estrutura do quadro.
       2. DLCI
       3. CIR.
