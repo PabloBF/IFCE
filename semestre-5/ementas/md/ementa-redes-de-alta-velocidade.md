@@ -1,19 +1,22 @@
-DISCIPLINA:REDESDEALTAVELOCIDADE 
-Código: TELM056 
-CargaHoráriaTotal:80 CHTeórica:80h| CHPrática:0h 
-Número deCréditos: 4 
-Pré-Requisito: REDESDECOMPUTADORES 
-Semestre: 5 
-Nível: Tecnologia 
-EMENTA 
+# DISCIPLINA:REDESDEALTAVELOCIDADE 
+- Código: TELM056 
+- CargaHoráriaTotal:80 CHTeórica:80h| CHPrática:0h 
+- Número deCréditos: 4 
+- Pré-Requisito: REDESDECOMPUTADORES 
+- Semestre: 5 
+- Nível: Tecnologia 
+
+## EMENTA 
 Conceitos deQoS.IPv6.ComutaçãoRápidadePacotes.ComutaçãoRápidadePacotes.IPMulticast. 
 IntServ XDiffServ.Novos protocolos deredes. 
-OBJETIVO 
+
+## OBJETIVO 
 ConheceroconceitodeQualidadedeServiço,bemcomocomas tecnologias dapilhadecamadas TCP/IP 
 queaimplementam.Conheceras principais tecnologias deredes dealtavelocidade,identificaros 
 componentes deperformancemais importantes emumarede,eestratégias paramaximizá-los;Relacionar 
 aaplicaçãodas Redes deAltaVelocidadeemaplicações computacionais. 
-PROGRAMA 
+
+## PROGRAMA
 Unidade1:Conceitos deQoS(10ha):1.1Introdução.1.1.1Vantagens XDesvantagens.1.2Parâmetros. 
 1.2.1Larguradebanda.1.2.2Atraso.1.2.3Variaçãodeatraso(jitter).1.2.4Defasagemáudio/vídeo(skew). 
 Unidade2:IPv6(10ha):2.1Características.2.2Cabeçalhos.2.3Endereçamento.2.3.1Estrutura.2.3.2 
@@ -25,12 +28,14 @@ Multicast(20ha):4.1Necessidades.4.2ClasseD.4.3Protocolos IGMP,DVMRP.4.4RTP/RTCP.
 5:IntServ XDiffServ (20ha):5.1IntServ.5.1.1Introduçãoareservaderecursos.5.1.2RSVP.5.2DiffServ. 
 5.2.1Classes deServiço(CoS).5.2.2CampoDSCP(TOS).5.3Técnicas deComutaçãoIP.5.3.1Redes 
 MPLS.Unidade6:Novos protocolos deredes (10ha):6.1Redes P2P. 
-METODOLOGIADEENSINO 
+
+## METODOLOGIADEENSINO 
 Adisciplinaédesenvolvidanoformatopresencial: 
 -Aulas expositivas; 
 -Resoluçãodeexercícios emsaladeaula; 
 -ResoluçãodeListadeexercícios. 
-RECURSOS 
+
+## RECURSOS 
 LaboratóriodeRedes equipadocom: 
  
 Quadrobranco; 
@@ -44,36 +49,27 @@ Computadores conectados àrede;
 Softwares desimulaçãoderedes; 
  
 Switchs eroteadores. 
-AVALIAÇÃO 
+
+## AVALIAÇÃO 
 Aavaliaçãoérealizadadeformaprocessualecumulativa.Asaber:avaliações escritas,trabalhos extra-sala 
 deaulaedinâmicas emsala.Afrequênciaéobrigatória,respeitandoos limites deausênciaprevistos em 
 lei.Asistemáticadeavaliaçãonoensinoocorreráportodoosemestreletivo..Osemestreédivididoem 
 duas etapas.Paracadaumadelas,pelomenos umaavaliaçãodeveráserfeita.Anotapreliminardo 
-
 
 semestreserá calculadaatravés damédiaponderadadas notas das duas etapas,sendoqueaprimeira 
 etapaterápeso2easegundaetapaterápeso3.Seanotapreliminardosemestreforigualousuperiora 
 7,oalunoéconsideradoaprovado.Seoalunoobtivernotamaiorouiguala3emenordoque7,eleterá 
 direitoafazerumaavaliaçãofinal.Anotafinaldoalunoseráamédiaaritméticaentreanotapreliminardo 
 semestreeanotadaavaliaçãofinal.Seanotafinalformaiorouiguala5,oalunoéconsideradoaprovado. 
-BIBLIOGRAFIABÁSICA 
-KUROSE,James F.;ROSS,KeithW.RedesdecomputadoreseaInternet:umaabordagemtop-down. 
-3.ed.SãoPaulo(SP):PearsonAddisonWesley,2007.634p. 
-TRONCO,TaniaRegina,Redesdenovageração:arquiteturadeconvergênciadasredes:IP, 
-telefônicaeóptica/2.ed.rev.,SãoPaulo,SP:Érica,2011. 
-TANENBAUM,AndrewS.Redesdecomputadores.RiodeJaneiro(RJ):Campus,1997.923p.Riode 
-Janeiro:Elsevier,2003. 
-BIBLIOGRAFIACOMPLEMENTAR 
-SOARES,Luiz FernandoGomes;LEMOS,Guido;COLCHER,Sérgio.Redesdecomputadores:das 
-LANs,MANseWANs às redes ATM.2.ed.RiodeJaneiro(RJ):Campus,1995.705p. 
-CEREDA,RonaldoLuiz Dias,ATM:ofuturo dasredes,SãoPaulo,SP:MakronBooks,1997. 
-SOARESNeto,Vicente,Redesdealtavelocidade:SMDSSWITCH-MULTI-MEGABIT-DATA 
-SERVICE,SãoPaulo,SP:Érica,1998. 
-HELD,Gilbert,Comunicação dedados,RiodeJaneiro,RJ :Campus,1999. 
-COMER,Douglas E.,Interligação deredescom TCP/IP–v.1,RiodeJaneiro,RJ :Elsevier,2006. 
-Coordenador do Curso 
-_______________________ 
-Setor Pedagógico 
-___________________________ 
 
-
+## BIBLIOGRAFIABÁSICA 
+- KUROSE,James F.;ROSS,KeithW.RedesdecomputadoreseaInternet:umaabordagemtop-down. 3.ed.SãoPaulo(SP):PearsonAddisonWesley,2007.634p.
+- TRONCO,TaniaRegina,Redesdenovageração:arquiteturadeconvergênciadasredes:IP, telefônicaeóptica/2.ed.rev.,SãoPaulo,SP:Érica,2011.
+- TANENBAUM,AndrewS.Redesdecomputadores.RiodeJaneiro(RJ):Campus,1997.923p.Riode Janeiro:Elsevier,2003.
+
+## BIBLIOGRAFIACOMPLEMENTAR
+- SOARES,Luiz FernandoGomes;LEMOS,Guido;COLCHER,Sérgio.Redesdecomputadores:das LANs,MANseWANs às redes ATM.2.ed.RiodeJaneiro(RJ):Campus,1995.705p.
+- CEREDA,RonaldoLuiz Dias,ATM:ofuturo dasredes,SãoPaulo,SP:MakronBooks,1997.
+- SOARESNeto,Vicente,Redesdealtavelocidade:SMDSSWITCH-MULTI-MEGABIT-DATA SERVICE,SãoPaulo,SP:Érica,1998.
+- HELD,Gilbert,Comunicação dedados,RiodeJaneiro,RJ :Campus,1999.
+- COMER,Douglas E.,Interligação deredescom TCP/IP–v.1,RiodeJaneiro,RJ :Elsevier,2006. 
