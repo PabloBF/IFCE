@@ -7,6 +7,7 @@
 - Pré-Requisito: INTRODUÇÃO AO ELETROMAGNETISMO
 - Semestre: 5
 - Nível: Tecnologia 
+
 ## EMENTA 
 - Unidades de medida.
 - Mecanismos de propagação de uma onda de rádio.
@@ -14,7 +15,8 @@
 - Zonas de Fresnel.
 - Atenuação, multitrajetos, desvanecimento.
 - Cálculo de enlace: dimensionamento e projeto de sistemas de rádio enlace.
-- Legislação. 
+- Legislação.
+
 ## OBJETIVO
 - Conhecer os conceitos básicos sobre o projeto de um sistema de rádio enlace.
 - Usar os conceitos que permitam cálculos de perdas em enlaces de rádio.
@@ -104,30 +106,36 @@
    6. VSWR do sistema aéreo.
    7. Tipos de rádio ponto a ponto,
    8. topologia de rede,
-   9. composição do sistema de rádio, configurações e parâmetros 
-sistêmicos dos equipamentos de rádio e introdução a gerência de rede.Unidade 9: Legislações Vigentes -
+   9. composição do sistema de rádio, configurações e parâmetros sistêmicos dos equipamentos de rádio e introdução a gerência de rede.
+9. Legislações Vigentes
+   1. Principais organismos nacionais e internacionais,
+   2. principais normas vigentes da Anatel
+      1. definições dos tipos de serviço;
+      2. normas para instalação e alteração de características técnicas de estação de telecomunicações; 
+   3. formulários de projeto. 
 
-
-Principais organismos nacionais e internacionais, principais normas vigentes daAnatel: definições dos tipos 
-de serviço; normas para instalação e alteração de características técnicas de estação de telecomunicações; 
-formulários de projeto. 
 ## METODOLOGIADE ENSINO 
 Através de aulas teórico/práticas será apresentado, passo a passo, todo o procedimento necessário para o cálculo de enlaces de rádio digitais. À medida que o conteúdo for ministrado, os educandos farão o projeto de um enlace de rádio seguindo normas e procedimentos técnicos apresentados. Para complementar as aulas teóricas, os educandos farão simulações computacionais utilizando planilhas de cálculo, visitas técnica e trabalhos em grupo, além da montagem de enlaces de rádio nas faixas de 2,4 GHz, 5 GHz, 7 GHz e 23 GHz. 
+
 ## RECURSOS
 - Quadro branco;
 - Pincéis;
 - Projetor:
 - Computadores com softwares de simulação de sistemas de telecomunicações. 
+
 ## AVALIAÇÃO 
 A avaliação é realizada de forma processual e cumulativa. A saber: avaliações escritas, trabalhos extra-sala De aula e dinâmicas em sala.Afrequência é obrigatória, respeitando os limites de ausência previstos em lei. A sistemática de avaliação no ensino ocorrerá por todo o semestre letivo.
 
 O semestre é dividido em duas etapas. Para cada uma delas, pelo menos uma avaliação deverá ser feita. A nota preliminar do semestre será calculada através da média ponderada das notas das duas etapas, sendo que a primeira etapa terá peso 2 e a segunda etapa terá peso 3. Se a nota preliminar do semestre for igual ou superior a 7, o aluno é considerado aprovado. Se o aluno obtiver nota maior ou igual a 3 e menor do que 7, ele terá direito a fazer uma avaliação final. Anota final do aluno será a média aritmética entre a nota preliminar do semestre e a nota da avaliação final. Se a nota final for maior ou igual a 5, o aluno é considerado aprovado.
+
 ## BIBLIOGRAFIA
+
 ### BÁSICA
 - GOMES, G. G. R. Sistemas de Rádio Enlaces Digitais: Terrestres e por Satélites. 1ª Ed. São Paulo. Editora Érica, 2013. 
 - MIYOSHI, E., M., SANCHES, C.,A. Projetos de Sistemas de Rádio. 1ª ed. São Paulo: Érica, 2002. 
 - SOARES, V., N., PETRUCCI, L., A., TEIXEIRA P., S. Telecomunicações Sistemas de Propagação e Rádio Enlace. Editora Érica Ltda. São Paulo, 1999.
-### BIBLIOGRAFIA COMPLEMENTAR 
+
+### COMPLEMENTAR 
 - RIBEIRO, J. A. J. Engenharia deAntenas, 2a ed. São Paulo: Edgard Blücher, 2002.
 - SADIKU, MATTHEW N. O. Elementos de Eletromagnetismo, 3ª ed. Porto Alegre, 2004.
 - BARRADAS, O., SILVA, G. Sistemas Radio visibilidade. Livros Técnicos e Científicos S.A., 2ª Edição, Rio de Janeiro, 1978;
