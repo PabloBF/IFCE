@@ -1,0 +1,133 @@
+{"disciplina":[
+  { "nome": "Gerência e segurança de redes",
+    "codigo": "01.302.30",
+    "cargaHoraria":
+      {"teorica": 60, "pratica": 20},
+    "creditos": 4,
+    "pre-requisito": "01.302.21",
+    "semestre": 5,
+    "nivel": "tecnologia",
+    "ementa":
+    [
+      "Conceitos básicos de Segurança",
+      "Criptografia, Autenticação",
+      "Autorização e Contabilização",
+      "Serviços de Segurança",
+      "Segurança Operacional.",
+      "Conceitos básicos de Gerência",
+      "Protocolo de Gerência de Rede;",
+      "Ferramentas de Gerência."
+    ],
+    "objetivo":
+    [
+      "Classificar os tipos de ataques a redes de computadores.",
+      "Conhecer os serviços e mecanismos para segurança de redes.",
+      "Entender como funciona os vários esquemas e algoritmos de criptografia.",
+      "Usar métodos para prevenir acesso maliciosos a computadores, redes , servidores e dados.",
+      "Entender as principais partes de um sistema de gerencia de redes.",
+      "Usar as ferramentas de gerencia opensource e freeware."
+    ],
+    "programa":
+    {
+      "Conceitos básicos de segurança":
+      [
+        "Tendências de segurança",
+        "Ataques à segurança",
+        "Serviços de segurança",
+        "Mecanismos de segurança",
+        "Práticas e Laboratórios."
+      ],
+      "Criptografia" :
+      [
+         "Conceitos de criptografia",
+         "Técnicas clássicas de criptografia",
+         "Modelo de cifra simétrica",
+         "Técnicas de substituição",
+         "Técnicas de transposição",
+         "Máquinas de rotor",
+         "Esteganografia",
+         "Criptografia simétrica",
+         "DES; 3DES; AES",
+         "Criptografia de chave pública",
+         "RSA",
+         "Gerenciamento e distribuição de chaves",
+         "Práticas e laboratórios"
+      ],
+      "Autenticação, Autorização e Contabilização":
+      [ ],
+      "Serviços de Segurança":
+      [
+        "PGP",
+        "SSL",
+        "Ipsec e redes virtuais privadas (VPN)"
+      ],
+      "Segurança Operacional":
+      [
+        "Firewall",
+        "Sistemas de detecção de invasão"
+      ],
+      "Conceitos básicos de Gerência":
+      {
+        "Infraestrutura de gerenciamento": [ ],
+        "Estrutura de gerenciamento padrão na Internet":
+        [
+          "Estrutura de informações de gerenciamento - SMI",
+          "Base de Informações de Gerenciamento - MIB",
+          "Protocolo de Gerência de Rede - SNMP3"
+        ],
+        "Ferramentas de gerência": [ ]
+      }
+    },
+    "Metodologia de ensino":
+    [
+      "Aulas teóricas e práticas",
+      "Laboratórios com equipamentos reais e simuladores."
+    ],
+    "recursos":
+    {
+      "laboratório de redes equipado com":
+      [
+        "Quadro branco",
+        "Pincéis",
+        "Projetor",
+        "Computadores conectados à rede",
+        "Softwares de simulação de redes",
+        "Switches e roteadores."
+      ]
+    },
+    "avaliação":
+    "A avaliação é realizada de forma processual e cumulativa. A saber: avaliações escritas, trabalhos extra-sala de aula e dinâmicas em sala. A frequência é obrigatória, respeitando os limites de ausência previstos em lei. A sistemática de avaliação no ensino ocorrerá por todo o semestre letivo.. O semestre é dividido em duas etapas. Para cada uma delas, pelo menos uma avaliação deverá ser feita. A nota preliminar do semestre será  calculada através da média ponderada das notas das duas etapas, sendo que a primeira etapa terá peso 2 e a segunda etapa terá peso 3. Se a nota preliminar do semestre for igual ou superior a 7, o aluno é considerado aprovado. Se o aluno obtiver nota maior ou igual a 3 e menor do que 7, ele terá direito a fazer uma avaliação final. A nota final do aluno será a média aritmética entre a nota preliminar do semestre e a nota da avaliação final. Se a nota final for maior ou igual a 5, o aluno é considerado aprovado.",
+    "bibliografia":
+    {
+      "basica":
+      [
+        {
+          "autor":
+          [{
+            "sobrenome": "Stalling",
+            "nome": "William Walter",
+            "nascimento": "1945-07-27",
+            "openlibraryID": "OL942245A"
+          }],
+          "titulo": "Criptografia e segurança de redes",
+          "subtitulo": "princípios e práticas",
+          "edicao": 6,
+          "local": "São Paulo",
+          "editora": "Pearson Education do Brasil",
+          "paginas": 578,
+          "paginacao": "xvii, 558p.",
+          "isbn13": "978-85-430-1450-0",
+          "ano": 2015,
+          "ddc": "005.8",
+          "cutter": "S782c",
+          "bibliotecaIfce": false
+        }
+      ],
+      "complementar":
+      [
+        {}
+      ]
+    }
+    
+  }
+]}
