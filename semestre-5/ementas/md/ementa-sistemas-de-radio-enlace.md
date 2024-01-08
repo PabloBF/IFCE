@@ -132,15 +132,15 @@ O semestre é dividido em duas etapas. Para cada uma delas, pelo menos uma avali
 
 ### BÁSICA
 - GOMES, G. G. R. Sistemas de Rádio Enlaces Digitais: Terrestres e por Satélites. 1ª Ed. São Paulo. Editora Érica, 2013. 
-- MIYOSHI, E., M., SANCHES, C.,A. Projetos de Sistemas de Rádio. 1ª ed. São Paulo: Érica, 2002. 
-- SOARES, V., N., PETRUCCI, L., A., TEIXEIRA P., S. Telecomunicações Sistemas de Propagação e Rádio Enlace. Editora Érica Ltda. São Paulo, 1999.
+- MIYOSHI, Edson Miyoshi; SANCHES, Carlos Alberto. **Projetos de sistemas de rádio**: . 1ª ed. São Paulo: Érica, 2002. ISBN 978-85-7194-868-6.
+- SOARES NETO, Vicente; PETRUCCI, Lucílio Augusto; TEIXEIRA, Paulo Sérgio de Assis. **Sistemas de propagação e rádio enlace**. São Paulo: Érica, 1999. (Telecomunicações). ISBN 
 
 ### COMPLEMENTAR 
-- RIBEIRO, J. A. J. Engenharia deAntenas, 2a ed. São Paulo: Edgard Blücher, 2002.
-- SADIKU, MATTHEW N. O. Elementos de Eletromagnetismo, 3ª ed. Porto Alegre, 2004.
-- BARRADAS, O., SILVA, G. Sistemas Radio visibilidade. Livros Técnicos e Científicos S.A., 2ª Edição, Rio de Janeiro, 1978;
-- BERTONI, HENRY L. Radio Propagation for Modern Wireless Systems, Prentice-Hall, 1999.
-- B. PATTAN – SATELLITE-BASED CELLULAR COMMUNICATIONS – McGraw Hill -1998.
-- R. E. COLLIN, Foundations for Microwave Engineering, 2nd.ed., McGraw-Hill, 1992.
-- I. A. GLOVER, et al., Microwave Devices, Circuits and Subsystems, J. Wiley, 2005.
-- M. GOLIO, (Ed.), The RF and MicrowaveHandbook, CRC Press, 2001.
+- RIBEIRO, J. A. J. **Engenharia de antenas**. 2. ed. São Paulo: Edgard Blücher, 2002.
+- SADIKU, Matthew N. O. **Elementos de eletromagnetismo**. 3. ed. Porto Alegre: Bookman, 2004.
+- BARRADAS, O., SILVA, G. **Sistemas radiovisibilidade**. 2. ed. Rio de Janeiro: Livros Técnicos e Científicos, 1978.
+- BERTONI, Henry L. **Radio propagation for modern wireless systems**. Prentice-Hall, 1999.
+- PATTAN, Bruno. **Satellite-based celular communications**. McGraw Hill, 1998.
+- COLLIN, R. E. **Foundations for microwave engineering**. 2. ed. McGraw-Hill, 1992.
+- GLOVER, I. A. *et al.*, **Microwave devices, circuits and subsystems**. Wiley, 2005.
+- GOLIO, Michael (ed.). **The RF and microwave handbook**. CRC Press, 2001.
